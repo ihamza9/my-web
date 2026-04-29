@@ -95,15 +95,9 @@ These challenges were overcome through research, testing, and iterative improvem
 
 ## 9. Inclusion of GitHub Username and Public Repository Link
 
-GitHub Username: exampleuser  
-Public Repository Link: https://github.com/exampleuser/portfolio-website
+GitHub Username:   
+Public Repository Link: 
 
-## 10. Overall Organization, Language Quality, and Manual Submission
 
-This report is organized into clear sections corresponding to the evaluation rubric. The language is professional, concise, and free of jargon. The report exceeds the 1000-word requirement and will be printed and submitted manually as instructed.
-
-Word count: Approximately 1200 words.
-
-[Signature]  
 John Doe  
 Date: April 28, 2026
