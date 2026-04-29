@@ -164,5 +164,3 @@ This project demonstrates:
 - User experience design
 - Security best practices
 - Professional coding standards
-
-Perfect for university web development course submissions!
